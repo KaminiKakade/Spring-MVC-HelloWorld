@@ -1,7 +1,7 @@
 # Spring-MVC-HelloWorld
 I tried to run simple Spring MVC.
 first I created dynamic web project.
-Then write click on project-configure-> convert to maven project.
+Then right click on project-configure-> convert to maven project.
 add all required dependencies in pom.xml file.
 create servlet.xml file.
 create web.xml file-write code for servlet mapping.
